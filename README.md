@@ -10,3 +10,12 @@ Unity Editor created for use in **Proto**Blocks: https://github.com/altered-exis
 **Developed by:** [Gary Lee Chisenhall](https://github.com/glchisenhall)
 
 -----
+
+**Platform:** Unity
+
+**Type:** Editor Extension
+
+-----
+
+## Description:
+Tool used to create "ProtoBlock" prefabs in the Unity Editor
